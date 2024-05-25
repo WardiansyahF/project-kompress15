@@ -55,7 +55,3 @@ Jika Anda ingin melatih ulang model, buka file Jupyter Notebook di `model_traini
 - [abizarhaikal](https://github.com/abizarhaikal)
 - [WardiansyahF](https://github.com/WardiansyahF)
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah lisensi .... Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-
