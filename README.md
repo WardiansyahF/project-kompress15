@@ -9,7 +9,6 @@ FruitFresh adalah aplikasi mobile yang dirancang untuk mendeteksi kesegaran buah
 - [Instalasi](#instalasi)
 - [Penggunaan](#penggunaan)
 - [Kontributor](#kontributor)
-- [Lisensi](#lisensi)
 
 ## Deskripsi Proyek
 
